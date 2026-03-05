@@ -1,0 +1,9 @@
+USE addressbook;
+INSERT INTO addressbook
+(first_name, last_name, address, city, state, zip, phone_number, email)
+VALUES
+    ('Alice', 'Smith', '45 Park Ave', 'Los Angeles', 'CA', '90001', '8765432109', 'alice@email.com'),
+    ('Bob', 'Johnson', '78 Lake Road', 'Chicago', 'IL', '60601', '7654321098', 'bob@email.com'),
+    ('Emma', 'Brown', '9 Hill Street', 'Dallas', 'TX', '75001', '6543210987', 'emma@email.com');
+
+select * from addressbook;
