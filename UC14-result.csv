@@ -1,0 +1,4 @@
+first_name,last_name,address,city,state,zip,phone_number,email,addressbook_name,type
+Bob,Johnson,"78 Lake Road",Chicago,IL,60601,7654321098,bob@email.com,NULL,NULL
+Emma,Brown,"9 Hill Street",Dallas,TX,75001,6543210987,emma@email.com,NULL,NULL
+Bob,Johnson,"78 Lake Road",Chicago,IL,60601,7654321098,bob@email.com,FamilyBook,Family
